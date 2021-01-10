@@ -1,0 +1,21 @@
+.formAddContact {
+  border: 1px solid #555;
+  display: block;
+  width: 400px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.addLable {
+  display: block;
+  margin-bottom: 20px;
+  font-size: 20px;
+  text-align: start;
+  font-weight: 600;
+}
+
+.inputFild {
+  display: block;
+  margin-top: 5px;
+}

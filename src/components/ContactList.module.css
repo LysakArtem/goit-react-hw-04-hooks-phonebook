@@ -1,0 +1,35 @@
+.contacts {
+  display: block;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.contactList {
+  display: block;
+  list-style: disc;
+  padding-left: 30px;
+  margin-left: 0px;
+}
+.contactItem {
+  text-align: start;
+  margin-bottom: 5px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.number {
+  font-size: 20px;
+  font-weight: 500;
+  margin-right: 20px;
+}
+
+.button:hover {
+  cursor: pointer;
+}
